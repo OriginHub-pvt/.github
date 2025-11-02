@@ -44,16 +44,6 @@ OriginHub is organized into modular repositories:
 
 ---
 
-## 🧑‍🤝‍🧑 Contributing
-We welcome contributions from developers, researchers, and innovators who share our mission.  
-
-1. Fork a repository under [OriginHub](https://github.com/OriginHub).  
-2. Check our contribution guidelines (coming soon in `CONTRIBUTING.md`).  
-3. Open issues for new ideas or improvements.  
-4. Submit pull requests for review.  
-
----
-
 ## 📜 License
 All repositories in this organization are licensed under [MIT](https://opensource.org/licenses/MIT), unless otherwise specified.  
 
